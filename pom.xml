@@ -3,7 +3,7 @@
   <groupId>project</groupId>
   <artifactId>stringremoval-mavenproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
